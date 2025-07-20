@@ -34,7 +34,7 @@ A dependency-free Telegram bot for auto-forwarding messages between channels.
 - Python 3.7+
 - SQLite (included in Python)
 - Telegram bot token from @BotFather
-```
+
 
 ## How This Implementation Works:
 
